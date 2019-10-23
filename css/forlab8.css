@@ -1,0 +1,90 @@
+html {
+    font-family: "Roboto Mono", monospace;
+    font-family: "Noto Serif", serif;
+    background-image: url(../img/fonlight.jpg);
+    background-color: azure;
+}
+h1 {
+    font-family: "Noto Serif", serif;
+    font-weight: 500;
+    font-size: 60px;
+    color: brown;
+    text-align: center;
+}
+.containerImage1 {
+    border-width: 3px;
+    border-style: solid;
+    height: 300px;
+    /* border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px; */
+    border-radius: 40px 40px 40px 40px;
+    margin: 10px 15px 10px;
+    position: relative;
+    left: 5%;
+    top: 40px;
+}
+.containerImage2 {
+    border-width: 3px;
+    border-style: solid;
+    height: 300px;
+    border-radius: 40px 40px 40px 40px;
+    margin: 10px 15px 10px;
+    position: relative;
+    left: 8%;
+    top: 40px;
+}
+.containerImage3 {
+    border-width: 3px;
+    border-style: solid;
+    height: 300px;
+    border-radius: 40px 40px 40px 40px;
+    margin: 10px 15px 10px;
+    position: relative;
+    left: 5%;
+    top: 40px;
+}
+.containerImage4 {
+    border-width: 3px;
+    border-style: solid;
+    height: 300px;
+    border-radius: 40px 40px 40px 40px;
+    margin: 10px 15px 10px;
+    position: relative;
+    left: 6%;
+    top: 40px;
+}
+.containerImage5 {
+    border-width: 3px;
+    border-style: solid;
+    height: 300px;
+    border-radius: 40px 40px 40px 40px;
+    margin: 10px 15px 10px;
+    position: relative;
+    left: 5%;
+    top: 40px;
+    margin-bottom: 40px;
+}
+.containerImage6 {
+    border-width: 3px;
+    border-style: solid;
+    height: 300px;
+    border-radius: 40px 40px 40px 40px;
+    margin: 10px 15px 10px;
+    position: relative;
+    left: 3%;
+    top: 40px;
+    margin-bottom: 40px;
+}
+.containerImage7 {
+    border-width: 3px;
+    border-style: solid;
+    height: 300px;
+    border-radius: 40px 40px 40px 40px;
+    margin: 10px 15px 10px;
+    position: relative;
+    left: 2%;
+    top: 40px;
+    margin-bottom: 40px;
+}
